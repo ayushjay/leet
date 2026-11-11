@@ -1,3 +1,3 @@
 # leetcode problems
 
-## objective: solve DSA puzzles for fun (only place to not let coding skills atrophy)
+### objective: solve DSA puzzles for fun (only place to not let coding skills atrophy)
